@@ -63,7 +63,7 @@ The "Electronic_Vehicles Sales Data Analysis" project provides a detailed examin
 
 ## How to Use This Repository
 
-1. Access the dataset via the provided [link](https://github.com/prathaM27092000/EV-Market-Analysis/tree/main/Ev%20sales%20data).
+1. Access the dataset via the provided [GitHub](https://github.com/prathaM27092000/EV-Market-Analysis/tree/main/Ev%20sales%20data).
 2. Review the SQL queries used in the analysis to understand the methodology.
 3. Run the queries against the dataset to replicate results and explore additional insights.
 
