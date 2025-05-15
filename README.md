@@ -20,7 +20,7 @@ Imagine yourself as Yuzi Pandey, and perform the following tasks:
 
 ## Dataset
 
-The dataset used in this project is available via [Google Drive](https://drive.google.com/drive/folders/1ZYwIYYyu0DKmhXqIx9mJ-ARLa15tig2i?usp=sharing). It contains detailed records of EV sales by manufacturers and regions, along with information on overall vehicle sales, enabling a comprehensive analysis of the EV market in India.
+The dataset used in this project is available via [GitHub](https://github.com/prathaM27092000/EV-Market-Analysis/tree/main/Ev%20sales%20data). It contains detailed records of EV sales by manufacturers and regions, along with information on overall vehicle sales, enabling a comprehensive analysis of the EV market in India.
 
 ## SQL Concepts and Techniques Used
 
@@ -63,7 +63,7 @@ The "Electronic_Vehicles Sales Data Analysis" project provides a detailed examin
 
 ## How to Use This Repository
 
-1. Access the dataset via the provided [Google Drive link](https://drive.google.com/drive/folders/1ZYwIYYyu0DKmhXqIx9mJ-ARLa15tig2i?usp=sharing).
+1. Access the dataset via the provided [link](https://github.com/prathaM27092000/EV-Market-Analysis/tree/main/Ev%20sales%20data).
 2. Review the SQL queries used in the analysis to understand the methodology.
 3. Run the queries against the dataset to replicate results and explore additional insights.
 
